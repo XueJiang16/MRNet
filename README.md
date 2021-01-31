@@ -1,6 +1,6 @@
 # MRNet
 
-This is the code implementation of paper  *MRNet: a Multi-scale Residual Network for EEG-based Sleep Staging*, which has been submitted in PAKDD 2021. The repository has been anonymized for paper review.
+This is the code implementation of paper  *MRNet: a Multi-scale Residual Network for EEG-based Sleep Staging*.
 
 ### Environment Setup 
 
